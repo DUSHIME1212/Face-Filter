@@ -23,37 +23,6 @@ This Unity AR Face Filter application provides an immersive augmented reality ex
 - **Face Tracking:** ARKit Face Tracking (iOS) / ARCore Face Mesh (Android)
 - **Programming Language:** C# (.NET)
 
-## Project Structure
-```
-Assets/
-├── Scenes/
-│   ├── WelcomeScene.unity
-│   ├── AppInfoScene.unity
-│   └── ARFaceFilterScene.unity
-├── Scripts/
-│   ├── UI/
-│   │   ├── UIManager.cs
-│   │   ├── SceneTransition.cs
-│   │   ├── MusicController.cs
-│   │   └── AnimatedButton.cs
-│   ├── AR/
-│   │   ├── FaceFilterManager.cs
-│   │   ├── FilterController.cs
-│   │   └── ScreenshotManager.cs
-│   └── Data/
-│       └── StudentInfo.cs
-├── Prefabs/
-│   ├── Filters/
-│   │   ├── GlassesFilter.prefab
-│   │   ├── MaskFilter.prefab
-│   │   └── FacePaintFilter.prefab
-│   └── UI/
-│       └── FilterSelectionMenu.prefab
-├── Materials/
-├── Audio/
-│   └── BackgroundMusic.mp3
-└── Resources/
-```
 
 ## Setup Instructions
 
