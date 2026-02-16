@@ -66,8 +66,8 @@ Assets/
 
 1. **Clone the Repository**
 ```bash
-git clone [your-repo-url]
-cd FaceFilterProject
+git clone https://github.com/don360/Face-Filter.git
+cd Face-Filter
 ```
 
 2. **Open in Unity**
