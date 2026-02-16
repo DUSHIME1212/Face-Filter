@@ -1,0 +1,5 @@
+C:/Users/don360/Desktop/Unity/Face Filter/.utmp/RelWithDebInfo/4n463x4d/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/don360/Desktop/Unity/Face Filter/.utmp/RelWithDebInfo/4n463x4d/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/don360/Desktop/Unity/Face Filter/.utmp/RelWithDebInfo/4n463x4d/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/don360/Desktop/Unity/Face Filter/.utmp/RelWithDebInfo/4n463x4d/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/don360/Desktop/Unity/Face Filter/.utmp/RelWithDebInfo/4n463x4d/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
