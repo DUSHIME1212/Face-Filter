@@ -66,7 +66,7 @@ Assets/
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/don360/Face-Filter.git
+git clone https://github.com/DUSHIME1212/Face-Filter.git
 cd Face-Filter
 ```
 
