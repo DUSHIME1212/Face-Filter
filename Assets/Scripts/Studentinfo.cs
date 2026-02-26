@@ -9,7 +9,7 @@ public class StudentInfo : ScriptableObject
 {
     [Header("Student Details")]
     [Tooltip("Your full name")]
-    public string studentName = "John Doe";
+    public string studentName = "DUSHIME Don Aime Hosanna";
     
     [Tooltip("Your cohort (e.g., Cohort 2024)")]
     public string cohort = "Cohort 2024";

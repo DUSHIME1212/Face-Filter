@@ -1,0 +1,5 @@
+C:/Users/don360/Desktop/Unity/Face Filter/.utmp/Debug/56273k6j/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/don360/Desktop/Unity/Face Filter/.utmp/Debug/56273k6j/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/don360/Desktop/Unity/Face Filter/.utmp/Debug/56273k6j/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/Users/don360/Desktop/Unity/Face Filter/.utmp/Debug/56273k6j/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/don360/Desktop/Unity/Face Filter/.utmp/Debug/56273k6j/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
