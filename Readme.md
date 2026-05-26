@@ -3,10 +3,6 @@
 ## Project Overview
 This Unity AR Face Filter application provides an immersive augmented reality experience with multiple face filters, smooth UI animations, and interactive features.
 
-**Student Information:**
-- **Name:** [Your Full Name]
-- **Cohort:** [Your Cohort]
-- **Specialization Track:** [Your Track]
 
 ## Features
 ✅ Multi-screen UI with animated transitions
